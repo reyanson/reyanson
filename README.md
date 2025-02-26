@@ -1,3 +1,6 @@
+# 💫 About Me:
+🔭 I’m currently working on an IT Helpdesk application using React, Node.js, Express, MySQL, and Sequelize, and along with a Laravel-based matrimonial platform.<br>🌱 I’m currently learning advanced full-stack development, API optimization, AI/ML model deployment, and cybersecurity best practices.<br>👯 I’m looking to collaborate on projects related to AI-powered web applications, machine learning for predictive analytics, cybersecurity in IoT, and full-stack development (React, Next.js, Laravel, Node.js, Express).<br>🤔 I’m looking for help with enhancing API efficiency, refining machine learning models for compatibility prediction, and optimizing backend performance in my IT Helpdesk application.<br>💬 Ask me about AI for code analysis, full-stack web application development, IT Helpdesk system design, IoT security, and machine learning applications in real-world scenarios.<br>📫 How to reach me:<br>Email: reyanson4222@gmail.com<br>LinkedIn: reyanson-sosai<br>GitHub: reyanson<br>😄 Pronouns: He/Him<br>⚡ Fun fact: I live in a seaside village known for shrimp aquaculture and enjoy researching innovative AI applications across diverse industries.
+
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Reyanson Sosai) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/reyanson99) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/reyanson-sosai) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:reyanson4222@gmail.com) 
@@ -10,15 +13,19 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=reyanson&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=reyanson&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=reyanson&theme=dark&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=light)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=reyanson&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=reyanson&limit=5&theme=transparent&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=reyanson&icon=0&color=0)](https://visitcount.itsvg.in)
 
+  ## 💰 You can help me by Donating
+  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/reyanson) 
+
+  
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
